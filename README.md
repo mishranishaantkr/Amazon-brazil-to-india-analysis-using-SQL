@@ -27,17 +27,17 @@ End-to-end SQL analysis of Amazon Brazil e-commerce data to uncover customer beh
 
 - [Project Overview](#-project-overview)
 - [Business Context](#-business-context)
-- [Dataset and Schema](#-dataset-and-schema)
+- [Dataset and Schema](#%EF%B8%8F-dataset--schema)
 - [Project Structure](#-project-structure)
-- [Database Setup](#-database-setup)
+- [Database Setup](#%EF%B8%8F-database-setup)
 - [Analysis Breakdown](#-analysis-breakdown)
   - [Analysis I — Basic SQL](#analysis-i--basic-sql-7-questions)
   - [Analysis II — Joins](#analysis-ii--joins-5-questions)
   - [Analysis III — CTEs & Window Functions](#analysis-iii--ctes--window-functions-7-questions)
 - [Key Findings](#-key-findings)
 - [Business Recommendations](#-business-recommendations-for-amazon-india)
-- [Presentation](#-presentation)
-- [How to Run](#-how-to-run)
+- [Presentation](#%EF%B8%8F-presentation)
+- [How to Run](#%EF%B8%8F-how-to-run)
 
 ---
 
