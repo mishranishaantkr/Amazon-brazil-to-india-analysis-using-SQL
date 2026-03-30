@@ -480,9 +480,12 @@ This project is submitted as part of an academic milestone assignment. Data sour
 
 <div align="center">
 
-Made with ❤️ by **Nishant Kumar Mishra**
+Made by **Nishant Kumar Mishra**
 
-*"Data-driven decisions · Customer-first strategy · Market excellence"*
+Data Analyst | Excel | SQL | Business Intelligence | EDA ( Exploratory Data Analysis )
+
+
+*"Data-driven decisions · E-commerce Analysis · Customer-first strategy · Market excellence"*
 
 </div>
 
