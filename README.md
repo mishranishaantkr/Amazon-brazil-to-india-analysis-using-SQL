@@ -477,10 +477,9 @@ cd amazon-brazil-india-analysis
 This project is submitted as part of an academic milestone assignment. Data sourced from Amazon Brazil's public e-commerce dataset.
 
 ---
+## 👤 Author
 
-<div align="center">
-
-Made by **Nishant Kumar Mishra**
+**Nishant Kumar Mishra**
 
 Data Analyst | Excel | SQL | Business Intelligence | EDA ( Exploratory Data Analysis )
 
