@@ -115,6 +115,8 @@ amazon-brazil-india-analysis/
 │
 ├── 📂 sql/
 │   └── Amazon_Analysis_Milestone_02.sql   # All 17 SQL queries (3 analyses)
+│   └──   Amazon_Table_creation.sql    #Schema and table creation
+│   
 │
 ├── 📂 outputs/
 │   ├── Amazon_Analysis_milestone02_sheets.xlsx  # Query output results
