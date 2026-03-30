@@ -27,7 +27,7 @@ End-to-end SQL analysis of Amazon Brazil e-commerce data to uncover customer beh
 
 - [Project Overview](#-project-overview)
 - [Business Context](#-business-context)
-- [Dataset & Schema](#-dataset-&-schema)
+- [Dataset & Schema](#-dataset-schema)
 - [Project Structure](#-project-structure)
 - [Database Setup](#-database-setup)
 - [Analysis Breakdown](#-analysis-breakdown)
